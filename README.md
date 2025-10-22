@@ -4,8 +4,8 @@ O objetivo é fornecer uma referência visual precisa durante a fase de voo, per
 
 Esse projeto também contém a leitura da telemetria em tempo real por HUDs no aplicativo, mas não é necessária para o funcionamento do aplicativo, use apenas se quiser mais informações do drone na tela.
 
-Aqui vai o *MANUAL DE INSTRUÇÕES* de como usar o aplicativo:
-
+ *MANUAL DE INSTRUÇÕES* 
+-------------------------------------------------------------------
 COMO USAR O APLICATIVO DO ALVO DE ALIJAMENTO COM A TELEMETRIA:
 
 ABRA O APLICATIVO DO MISSION PLANNER E CONECTE SUA TELEMETRIA. 
