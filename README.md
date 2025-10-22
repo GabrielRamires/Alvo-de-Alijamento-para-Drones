@@ -10,7 +10,7 @@ COMO USAR O APLICATIVO DO ALVO DE ALIJAMENTO COM A TELEMETRIA:
 
 ABRA O APLICATIVO DO MISSION PLANNER E CONECTE SUA TELEMETRIA. 
 
-COM A TELEMETRIA LIGADA ENTRE EM SUA IDE QUE RODE PYTHON E RODE O CÓDIGO "mavlink_to_json_udp.py".
+COM A TELEMETRIA LIGADA ENTRE EM SUA IDE QUE RODE PYTHON E RODE O CÓDIGO *"mavlink_to_json_udp.py"* na pasta telemetry-python.
 (Lembrando que essa parte é apenas se você quiser conectar a telemetria ao aplicativo)
 
 ↓↓↓(se você nao tiver telemetria no drone o manual começa a partir daqui)↓↓↓
